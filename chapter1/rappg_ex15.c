@@ -10,10 +10,5 @@ double findSolar(double l, double r)
 }
 int main()
 {
-  double r;
-  printf("Enter distance between sun and planet in AU: ");
-  scanf("%lf", &r);
-  double a = findSolar(L, r);
-  printf("Computed solar constant: %e\n",a);
-  return 0;
+
 }
