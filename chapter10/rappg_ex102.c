@@ -112,3 +112,4 @@ double integrand(double x, int m)
    return((1-(x/pi)) * cos((double) m*w*x));
 }
 
+/ change
