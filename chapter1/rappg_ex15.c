@@ -16,4 +16,5 @@ int main()
   double a = findSolar(L, r);
   printf("Computed solar constant: %e\n",a);
   return 0;
+  //another change
 }
