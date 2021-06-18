@@ -6,8 +6,6 @@ double findFinalVelocity(double v0, double tf)
   double ans;
   ans = v0 + g*tf;
   return ans;
-
-
 }
 int main()
 {
