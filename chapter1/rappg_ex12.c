@@ -18,4 +18,5 @@ int main()
   double v = findFinalVelocity(v0, tf);
   printf("Final velocity = %lf\n", v);
   // change
+  printf("Final velocity = %lf\n", v);  
 }
