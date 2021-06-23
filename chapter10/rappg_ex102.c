@@ -4,11 +4,6 @@
   Chapter 10 exercise 2
 */
 
-/* Computes the h(t) using Fourier Series
-- The value of M is the number of coefficients to compute
-- Here, h(t)= -1 (for -pi<t<0) and +1 (for 0<t<pi), 0 otherwise
-- C Thaxton, PHY4020/5020 */
-
 #include <stdio.h>
 #include <math.h>
 #include "comphys.c"
