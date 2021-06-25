@@ -14,6 +14,7 @@ int main()
   printf("Enter velocity and final time: ");
   scanf("%lf,%lf",&v0,&tf);
   double v = findFinalVelocity(v0, tf);
+  // this statement prints velocity
   printf("Final velocity = %lf\n", v);
   // change
   printf("Final velocity = %lf\n", v);  
